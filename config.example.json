@@ -1,0 +1,7 @@
+{
+  "capture_monitor": 0,
+  "output_monitor": 1,
+  "corners": [[0.05, 0.05], [0.95, 0.05], [0.95, 0.95], [0.05, 0.95]],
+  "capture_fps_cap": 45,
+  "show_calibration_handles": false
+}
